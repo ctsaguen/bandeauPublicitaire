@@ -17,7 +17,7 @@ public class BandeauPublicitaire {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        println("bonjour");
+        println("bonjour tout le monde");
     }
     
 }
